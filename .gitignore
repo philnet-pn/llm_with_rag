@@ -1,0 +1,22 @@
+.venv
+.vscode
+.env
+resources
+config
+log
+
+# python
+*.pyc
+
+# linux
+*~
+*.o
+*.a
+*.so
+*.orig
+*.old
+*.spec
+
+# OSX
+.DS_Store
+._*
